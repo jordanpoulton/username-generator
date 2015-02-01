@@ -1,0 +1,1 @@
+This Sinatra app will take a a firstname, an optional middlename, and a last name as params to the URL, and generate a username for the viewer, using the first letters of their first & middle names, and the first 5 letters of their last name
